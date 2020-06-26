@@ -1,8 +1,6 @@
 
 import { addtest, subtest, multtest, divtest } from '../utils.js';
 
-
-
 const test = QUnit.test;
 
 test('addtest', function(expect) {
